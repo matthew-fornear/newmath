@@ -348,6 +348,8 @@ average_outcome(X) = total_area_under(x * how_likely_at(x), x)
 
 ## What to Keep
 
-**Keep circle_constant**: The circle constant (pi) ≈3.14159, universally recognized
+**Keep circle_constant**: The circle constant ≈3.14159, universally recognized
+
+**Keep growth_constant**: The natural growth number ≈2.71828. If you have $1 growing at 100% interest compounded continuously for 1 year, you get growth_constant.
 
 ---
